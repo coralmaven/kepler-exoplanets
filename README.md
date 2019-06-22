@@ -62,7 +62,6 @@ The machine learning models in this jupyter notebook can classify candidate exop
      FALSEPOSITIVE   0.98      1.00      0.99      1089
 
 ===========================================================
-===========================================================
 
 # Compare GridSearch Models
 - - -
